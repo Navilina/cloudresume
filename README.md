@@ -16,6 +16,7 @@ Requirements and tools
 
 Resources needed : GitHub , AWS S3 , IAM CREDENTIALS & policy , Cloud front distribution
 
+![image](https://github.com/Navilina/cloudresume/assets/136193317/05da5695-f9f4-439d-81d5-b901cd538a1b)
 
 
 Additional Enhancements to consider
