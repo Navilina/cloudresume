@@ -12,7 +12,7 @@ This a developmental fun project for a fully automated deployment pipeline for y
 
 4.Automated Deployment: Your workflow checks out the code, configures AWS credentials, and syncs your files to the S3 bucket.
 
-
+Requirements and tools
 Resources needed : GitHub , AWS S3 , IAM CREDENTIALS & policy , Cloud front distribution
 
 Additional Enhancements to consider
